@@ -1,0 +1,15 @@
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example001_HelloConsol\bin\Debug\net6.0\Example001_HelloConsol.exe
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example001_HelloConsol\bin\Debug\net6.0\Example001_HelloConsol.deps.json
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example001_HelloConsol\bin\Debug\net6.0\Example001_HelloConsol.runtimeconfig.json
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example001_HelloConsol\bin\Debug\net6.0\Example001_HelloConsol.dll
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example001_HelloConsol\bin\Debug\net6.0\Example001_HelloConsol.pdb
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example001_HelloConsol\obj\Debug\net6.0\Example001_HelloConsol.csproj.AssemblyReference.cache
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example001_HelloConsol\obj\Debug\net6.0\Example001_HelloConsol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example001_HelloConsol\obj\Debug\net6.0\Example001_HelloConsol.AssemblyInfoInputs.cache
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example001_HelloConsol\obj\Debug\net6.0\Example001_HelloConsol.AssemblyInfo.cs
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example001_HelloConsol\obj\Debug\net6.0\Example001_HelloConsol.csproj.CoreCompileInputs.cache
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example001_HelloConsol\obj\Debug\net6.0\Example001_HelloConsol.dll
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example001_HelloConsol\obj\Debug\net6.0\refint\Example001_HelloConsol.dll
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example001_HelloConsol\obj\Debug\net6.0\Example001_HelloConsol.pdb
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example001_HelloConsol\obj\Debug\net6.0\Example001_HelloConsol.genruntimeconfig.cache
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example001_HelloConsol\obj\Debug\net6.0\ref\Example001_HelloConsol.dll
