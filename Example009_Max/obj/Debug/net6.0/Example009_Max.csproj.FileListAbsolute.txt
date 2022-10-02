@@ -1,0 +1,15 @@
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example009_Max\bin\Debug\net6.0\Example009_Max.exe
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example009_Max\bin\Debug\net6.0\Example009_Max.deps.json
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example009_Max\bin\Debug\net6.0\Example009_Max.runtimeconfig.json
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example009_Max\bin\Debug\net6.0\Example009_Max.dll
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example009_Max\bin\Debug\net6.0\Example009_Max.pdb
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example009_Max\obj\Debug\net6.0\Example009_Max.csproj.AssemblyReference.cache
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example009_Max\obj\Debug\net6.0\Example009_Max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example009_Max\obj\Debug\net6.0\Example009_Max.AssemblyInfoInputs.cache
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example009_Max\obj\Debug\net6.0\Example009_Max.AssemblyInfo.cs
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example009_Max\obj\Debug\net6.0\Example009_Max.csproj.CoreCompileInputs.cache
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example009_Max\obj\Debug\net6.0\Example009_Max.dll
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example009_Max\obj\Debug\net6.0\refint\Example009_Max.dll
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example009_Max\obj\Debug\net6.0\Example009_Max.pdb
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example009_Max\obj\Debug\net6.0\Example009_Max.genruntimeconfig.cache
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example009_Max\obj\Debug\net6.0\ref\Example009_Max.dll
