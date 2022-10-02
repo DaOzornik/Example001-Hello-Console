@@ -1,0 +1,15 @@
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example10_ArrayTask2\bin\Debug\net6.0\Example10_ArrayTask2.exe
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example10_ArrayTask2\bin\Debug\net6.0\Example10_ArrayTask2.deps.json
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example10_ArrayTask2\bin\Debug\net6.0\Example10_ArrayTask2.runtimeconfig.json
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example10_ArrayTask2\bin\Debug\net6.0\Example10_ArrayTask2.dll
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example10_ArrayTask2\bin\Debug\net6.0\Example10_ArrayTask2.pdb
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example10_ArrayTask2\obj\Debug\net6.0\Example10_ArrayTask2.csproj.AssemblyReference.cache
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example10_ArrayTask2\obj\Debug\net6.0\Example10_ArrayTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example10_ArrayTask2\obj\Debug\net6.0\Example10_ArrayTask2.AssemblyInfoInputs.cache
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example10_ArrayTask2\obj\Debug\net6.0\Example10_ArrayTask2.AssemblyInfo.cs
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example10_ArrayTask2\obj\Debug\net6.0\Example10_ArrayTask2.csproj.CoreCompileInputs.cache
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example10_ArrayTask2\obj\Debug\net6.0\Example10_ArrayTask2.dll
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example10_ArrayTask2\obj\Debug\net6.0\refint\Example10_ArrayTask2.dll
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example10_ArrayTask2\obj\Debug\net6.0\Example10_ArrayTask2.pdb
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example10_ArrayTask2\obj\Debug\net6.0\Example10_ArrayTask2.genruntimeconfig.cache
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example10_ArrayTask2\obj\Debug\net6.0\ref\Example10_ArrayTask2.dll
