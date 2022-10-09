@@ -1,0 +1,15 @@
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example14_Arrayworking\obj\Debug\net6.0\Example14_Arrayworking.csproj.AssemblyReference.cache
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example14_Arrayworking\obj\Debug\net6.0\Example14_Arrayworking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example14_Arrayworking\obj\Debug\net6.0\Example14_Arrayworking.AssemblyInfoInputs.cache
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example14_Arrayworking\obj\Debug\net6.0\Example14_Arrayworking.AssemblyInfo.cs
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example14_Arrayworking\obj\Debug\net6.0\Example14_Arrayworking.csproj.CoreCompileInputs.cache
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example14_Arrayworking\bin\Debug\net6.0\Example14_Arrayworking.exe
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example14_Arrayworking\bin\Debug\net6.0\Example14_Arrayworking.deps.json
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example14_Arrayworking\bin\Debug\net6.0\Example14_Arrayworking.runtimeconfig.json
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example14_Arrayworking\bin\Debug\net6.0\Example14_Arrayworking.dll
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example14_Arrayworking\bin\Debug\net6.0\Example14_Arrayworking.pdb
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example14_Arrayworking\obj\Debug\net6.0\Example14_Arrayworking.dll
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example14_Arrayworking\obj\Debug\net6.0\refint\Example14_Arrayworking.dll
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example14_Arrayworking\obj\Debug\net6.0\Example14_Arrayworking.pdb
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example14_Arrayworking\obj\Debug\net6.0\Example14_Arrayworking.genruntimeconfig.cache
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example14_Arrayworking\obj\Debug\net6.0\ref\Example14_Arrayworking.dll
