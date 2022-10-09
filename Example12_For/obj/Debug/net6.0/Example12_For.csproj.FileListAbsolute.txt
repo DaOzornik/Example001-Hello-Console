@@ -1,0 +1,15 @@
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example12_For\obj\Debug\net6.0\Example12_For.csproj.AssemblyReference.cache
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example12_For\obj\Debug\net6.0\Example12_For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example12_For\obj\Debug\net6.0\Example12_For.AssemblyInfoInputs.cache
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example12_For\obj\Debug\net6.0\Example12_For.AssemblyInfo.cs
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example12_For\obj\Debug\net6.0\Example12_For.csproj.CoreCompileInputs.cache
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example12_For\bin\Debug\net6.0\Example12_For.exe
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example12_For\bin\Debug\net6.0\Example12_For.deps.json
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example12_For\bin\Debug\net6.0\Example12_For.runtimeconfig.json
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example12_For\bin\Debug\net6.0\Example12_For.dll
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example12_For\bin\Debug\net6.0\Example12_For.pdb
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example12_For\obj\Debug\net6.0\Example12_For.dll
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example12_For\obj\Debug\net6.0\refint\Example12_For.dll
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example12_For\obj\Debug\net6.0\Example12_For.pdb
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example12_For\obj\Debug\net6.0\Example12_For.genruntimeconfig.cache
+C:\Users\T490\OneDrive\Desktop\Examples Lection\Example12_For\obj\Debug\net6.0\ref\Example12_For.dll
